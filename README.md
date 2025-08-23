@@ -41,6 +41,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab" alt="mahammadaftab" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=mahammadaftab"](https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=onestar) /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=onestar" /></a> </p>
 
 

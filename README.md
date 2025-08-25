@@ -57,6 +57,12 @@
 </div>
 <!-- GitHub trophy end -->
 
+<!-- GitHub trophy start -->
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=montasim&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
+<!-- GitHub trophy end -->
+
 
 
 

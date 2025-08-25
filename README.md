@@ -50,7 +50,7 @@
 [![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)
 
 
-[![trophy]([https://github-trophies.vercel.app/?username=mahammadaftab](https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=kimbie_dark))](https://github.com/mahammadaftab/github-trophies)
+[![trophy]([https://github-trophies.vercel.app/?username=mahammadaftab](https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=kimbie_dark))]
 
 
 

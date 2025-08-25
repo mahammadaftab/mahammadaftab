@@ -41,27 +41,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab" alt="mahammadaftab" /></a> </p>
 
-
-[![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)
-
-
 <!-- GitHub readme activity graph start -->
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 <!-- GitHub readme activity graph end -->
 
-<!-- GitHub trophy start -->
-<div align="center">
-    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=mahammadaftab&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
-</div>
-<!-- GitHub trophy end -->
+[![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)
 
-<!-- GitHub trophy start -->
-<div align="center">
-    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=mahammadaftab&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
-</div>
-<!-- GitHub trophy end -->
 
 
 

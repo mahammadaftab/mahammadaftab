@@ -47,6 +47,4 @@
 </div>
 <!-- GitHub readme activity graph end -->
 
-<div align="center">
-    [![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)
-</div>
+[![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)

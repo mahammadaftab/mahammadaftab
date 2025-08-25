@@ -48,11 +48,3 @@
 <!-- GitHub readme activity graph end -->
 
 [![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)
-
-
-[![trophy]([https://github-trophies.vercel.app/?username=mahammadaftab](https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=kimbie_dark))]
-
-
-
-
-

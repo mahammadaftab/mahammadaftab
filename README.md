@@ -45,3 +45,35 @@
 [![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)
 
 
+<div align="center">
+    <!-- GitHub most used languages start -->
+    <img loading="lazy" width=325 src="https://montasim-github-readme-stats.vercel.app/api/top-langs/?username=montasim&hide_title=true&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=EB008B&text_color=FFFFFF&icon_color=61dafb&bg_color=0D1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="most used language stats" />
+    <!-- GitHub most used languages end -->
+    <!-- wakatime weekly activity start -->
+    <!-- <a href="https://wakatime.com/@montasim" target="_blank" rel="noopener noreferrer" title="Data update every midnight">
+        <img loading="lazy" src="https://github-readme-stats-montasim.vercel.app/api/wakatime?username=montasim&layout=compact&langs_count=6&theme=react&text_color=00B8B5&bg_color=0D1117&title_color=EB008B&border_color=61dafb&hide_border=true" alt="Wakatime weekly coding actitvity languages" />
+    </a> -->
+    <!-- wakatime weekly activity end -->
+</div>
+
+
+
+
+<!-- GitHub readme activity graph start -->
+<div align="center">
+    <img loading="lazy" alt="visitor badge" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+</div>
+<!-- GitHub readme activity graph end -->
+
+<!-- GitHub trophy start -->
+<div align="center">
+    <img loading="lazy" src="https://montasim-github-profile-trophy.vercel.app?username=montasim&theme=radical&no-bg=true&no-frame=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
+<!-- GitHub trophy end -->
+
+
+
+
+
+
+

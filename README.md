@@ -1,9 +1,11 @@
-<img width="3264" height="1312" alt="Gemini_Generated_Image_2htqz2htqz2htqz2" src="https://github.com/user-attachments/assets/02b74d03-4adc-4c7e-b5d5-116ec4c5b83c" /></br></br>
+<img width="2816" height="844" alt="Gemini_Generated" src="https://github.com/user-attachments/assets/24da7cc4-bbab-49aa-8bc8-d75a1e56976c" /><hr>
 
-<div align="center">
+
+
+<div>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Hi+I'm+Mahammad+Aftab+%F0%9F%91%8B.;Computer+Science+Engineer.;Google+Cloud+Arcade+Facilitator;Full+Stack+Developer.;MERN+Stack+Developer.)](https://git.io/typing-svg)
-</div>
+</div><hr>
 
 # 💫 About Me:
 

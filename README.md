@@ -1,4 +1,4 @@
-<img width="2816" height="844" alt="Gemini_Generated" src="https://github.com/user-attachments/assets/24da7cc4-bbab-49aa-8bc8-d75a1e56976c" /><hr>
+<img width="2816" height="844" alt="Gemini_Generated" src="https://github.com/user-attachments/assets/24da7cc4-bbab-49aa-8bc8-d75a1e56976c" /><br><br>
 
 
 
@@ -7,7 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Hi+I'm+Mahammad+Aftab+%F0%9F%91%8B.;Computer+Science+Engineer.;Google+Cloud+Arcade+Facilitator;Full+Stack+Developer.;MERN+Stack+Developer.)](https://git.io/typing-svg)
 </div><hr>
 
-# 💫 About Me:
+<table>
+  <tr>
+    <td>
+
+<h1>💫 About Me</h1>
 
 - 🔭 I’m currently working on **New projects with my own Ideas.**
 - 🌱 I’m currently learning **Java for DSA, Full-Stack Developer.**
@@ -15,6 +19,16 @@
 - 💬 Ask me about **productivity tools, project ideas.**
 - 📫 How to reach me **mdaftabeditz360@gmail.com**
 - ⚡ Fun fact **Coding for Life.**
+
+</td>
+    <td>
+      <img src="https://cdn.dribbble.com/userupload/31153076/file/original-8d91ddeaca87dc4ad26f9c98ce4f7be1.gif" alt="GIF" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mahammad_aftab_attari/) 
@@ -54,10 +68,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab" alt="mahammadaftab" /></a> </p><hr>
 
 <!-- GitHub readme activity graph start -->
+## 📈 Contribution Graph
 <div align="center">
     <img loading="lazy" alt="visitor badge" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 <!-- GitHub readme activity graph end -->
+
+
+
 <hr> 
 
 [![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)

@@ -258,6 +258,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-90%25-7B68EE?style=for-the-badge)
 </div>
 
+```
 ## 🤖 AI / GenAI 
 <p> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi" /> </p>
 
@@ -327,6 +328,36 @@
 </p>
 
 **Additional:** Notion • Jira • Jupyter Notebook
+```
+
+
+## 🤖 AI / ML / Generative AI
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
+</p>
+
+OpenAI • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy • Keras • FastAPI
+
+---
+
+## 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" />
+</p>
+
+Tailwind CSS • Three.js • GSAP
+
 
 
 

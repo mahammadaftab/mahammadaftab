@@ -359,6 +359,19 @@ OpenAI • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy • 
 Tailwind CSS • Three.js • GSAP
 
 
+## 🚀 Tech Stack
+
+| Category | Technologies |
+|-----------|-------------|
+| 🤖 AI / GenAI | Python, OpenAI, LangChain, TensorFlow, PyTorch, FastAPI |
+| 🌐 Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| ⚙️ Backend | Node.js, Express.js, GraphQL, Socket.io, Redis |
+| 🗄️ Database | MongoDB, PostgreSQL, MySQL, Firebase, Supabase |
+| ☁️ Cloud | AWS, Docker, Kubernetes, Terraform |
+| 🔗 Blockchain | Solidity, Ethereum, Web3.js, Hardhat |
+| 🛠️ Tools | Git, GitHub, VS Code, Postman, Figma |
+
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />

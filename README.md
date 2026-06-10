@@ -2,8 +2,14 @@
 
 <div>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0EB4F7&width=700&lines=Hi+I'm+Mahammad+Aftab+%F0%9F%91%8B.;Computer+Science+Engineer.;Google+Cloud+Arcade+Facilitator;Full+Stack+Developer.;MERN+Stack+Developer.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+premium+AI-powered+web+experiences;Designing+scalable+full-stack+systems;Shipping+modern+products+with+clean+architecture;Exploring+LLMs,+MLOps,+Cloud,+and+Web3" alt="Typing SVG" />
 </div><hr>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+---
 
 <table>
   <tr>

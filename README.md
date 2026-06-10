@@ -113,6 +113,71 @@
 
 </div>
 
+<div align="center">
+
+## ◈ `< WHAT I DO />` ◈
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 Artificial Intelligence
+```
+✦ Generative AI & LLM Engineering
+✦ RAG Pipelines & Vector Databases  
+✦ Prompt Engineering & Fine-tuning
+✦ AI Agents & Autonomous Systems
+✦ NLP & Computer Vision
+✦ MLOps & Model Deployment
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Full Stack Development
+```
+✦ MERN Stack Applications
+✦ RESTful & GraphQL APIs
+✦ Microservices Architecture
+✦ Real-time Systems (WebSocket)
+✦ Progressive Web Apps
+✦ Database Design & Optimization
+```
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### ☁️ Cloud & DevOps
+```
+✦ AWS (EC2, S3, Lambda, ECS, RDS)
+✦ Docker & Kubernetes Orchestration
+✦ CI/CD Pipeline Automation
+✦ Infrastructure as Code (Terraform)
+✦ Monitoring & Observability
+✦ Performance Engineering
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🔗 Blockchain & Web3
+```
+✦ Smart Contract Development
+✦ DeFi Protocol Engineering
+✦ NFT & Token Standards (ERC-20/721)
+✦ Web3 dApp Development
+✦ IPFS & Decentralized Storage
+✦ Blockchain Security Auditing
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahammadaftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><hr>
 

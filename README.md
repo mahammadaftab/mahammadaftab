@@ -113,7 +113,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ## ◈ `< TECH ARSENAL />` ◈
 
@@ -197,7 +197,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-</div>
+<!-- </div> -->
 
 
 # 📊 GitHub Stats:

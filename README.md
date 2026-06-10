@@ -53,6 +53,48 @@
 
 </div>
 
+
+
+<div align="center">
+
+# 🌐 CONNECT WITH ME 🌐
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/mahammadaftab" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://your-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://x.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+
+
 ## 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

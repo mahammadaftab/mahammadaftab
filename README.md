@@ -5,12 +5,24 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+premium+AI-powered+web+experiences;Designing+scalable+full-stack+systems;Shipping+modern+products+with+clean+architecture;Exploring+LLMs,+MLOps,+Cloud,+and+Web3" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />
+
+  <a href="https://github.com/mahammadaftab?tab=followers">
+    <img src="https://img.shields.io/github/followers/mahammadaftab?label=Followers&style=for-the-badge&color=8A2BE2" alt="Followers" />
+  </a>
+
+  <a href="https://github.com/mahammadaftab?tab=repositories">
+    <img src="https://img.shields.io/github/stars/mahammadaftab?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00F5FF" alt="stars" />
+  </a>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/mahammadaftab?tab=followers">
   <img src="https://img.shields.io/github/followers/mahammadaftab?style=for-the-badge&cacheSeconds=60">
 </a>
 <a href="https://github.com/mahammadaftab?tab=repositories">
-  <img src="https://img.shields.io/github/stars/mahammadaftab?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00F5FF" alt="stars" />
+  
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />

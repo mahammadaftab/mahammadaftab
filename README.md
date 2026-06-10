@@ -40,11 +40,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<div align="center">
-
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                  CONNECT WITH ME                               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< CONNECT WITH ME />` ◈
 
 <a href="https://www.linkedin.com/in/mahammad-aftab/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />

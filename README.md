@@ -261,6 +261,75 @@
 ## 🤖 AI / GenAI 
 <p> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi" /> </p>
 
+
+## 🤖 AI / ML / Generative AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi" />
+</p>
+
+**Additional:** OpenAI • LangChain • Hugging Face • Scikit-learn • Pandas • NumPy • Keras • OpenCV
+
+---
+
+## 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+**Additional:** Redux • Three.js • GSAP
+
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nginx,redis" />
+</p>
+
+**Additional:** GraphQL • Socket.io • JWT • RabbitMQ
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+**Additional:** Pinecone • Weaviate
+
+---
+
+## ☁️ Cloud / DevOps / Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,vercel,heroku" />
+</p>
+
+---
+
+## 🔗 Blockchain / Web3
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+</p>
+
+**Additional:** Web3.js • Hardhat • IPFS • MetaMask
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+**Additional:** Notion • Jira • Jupyter Notebook
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 # 📊 GitHub Stats:

@@ -174,6 +174,92 @@
 
 </div>
 
+
+<div align="center">
+## ◈ `< 💻 LANGUAGES />` ◈
+### 🤖 AI / ML / Generative AI
+
+![Python](https://img.shields.io/badge/Python-95%25-00F5FF?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-90%25-7B68EE?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-88%25-00F5FF?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-92%25-7B68EE?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-85%25-00F5FF?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-84%25-7B68EE?style=for-the-badge)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-82%25-00F5FF?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-90%25-7B68EE?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-88%25-00F5FF?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-80%25-7B68EE?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-78%25-00F5FF?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-85%25-7B68EE?style=for-the-badge)
+
+### 🌐 Frontend Development
+
+![React](https://img.shields.io/badge/React.js-93%25-00F5FF?style=for-the-badge)
+![NextJS](https://img.shields.io/badge/Next.js-88%25-7B68EE?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-90%25-00F5FF?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-95%25-7B68EE?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-85%25-00F5FF?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-92%25-7B68EE?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-95%25-00F5FF?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-93%25-7B68EE?style=for-the-badge)
+![ThreeJS](https://img.shields.io/badge/Three.js-75%25-00F5FF?style=for-the-badge)
+![GSAP](https://img.shields.io/badge/GSAP-72%25-7B68EE?style=for-the-badge)
+
+### ⚙️ Backend Development
+
+![NodeJS](https://img.shields.io/badge/Node.js-90%25-00F5FF?style=for-the-badge)
+![ExpressJS](https://img.shields.io/badge/Express.js-88%25-7B68EE?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-75%25-00F5FF?style=for-the-badge)
+![SocketIO](https://img.shields.io/badge/Socket.io-80%25-7B68EE?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-85%25-00F5FF?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-70%25-7B68EE?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-75%25-00F5FF?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-65%25-7B68EE?style=for-the-badge)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-88%25-00F5FF?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-7B68EE?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-90%25-00F5FF?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-70%25-7B68EE?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-68%25-00F5FF?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-85%25-7B68EE?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-80%25-00F5FF?style=for-the-badge)
+
+### ☁️ Cloud / DevOps / Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-85%25-00F5FF?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-88%25-7B68EE?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-75%25-00F5FF?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-70%25-7B68EE?style=for-the-badge)
+![GitHubActions](https://img.shields.io/badge/GitHub_Actions-82%25-00F5FF?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-80%25-7B68EE?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-92%25-00F5FF?style=for-the-badge)
+![Heroku](https://img.shields.io/badge/Heroku-65%25-7B68EE?style=for-the-badge)
+
+### 🔗 Blockchain / Web3
+
+![Solidity](https://img.shields.io/badge/Solidity-80%25-00F5FF?style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/Ethereum-82%25-7B68EE?style=for-the-badge)
+![Web3JS](https://img.shields.io/badge/Web3.js-78%25-00F5FF?style=for-the-badge)
+![Hardhat](https://img.shields.io/badge/Hardhat-75%25-7B68EE?style=for-the-badge)
+![IPFS](https://img.shields.io/badge/IPFS-70%25-00F5FF?style=for-the-badge)
+![MetaMask](https://img.shields.io/badge/MetaMask-85%25-7B68EE?style=for-the-badge)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-95%25-00F5FF?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-95%25-7B68EE?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VS_Code-95%25-00F5FF?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-90%25-7B68EE?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-85%25-00F5FF?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-88%25-7B68EE?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-80%25-00F5FF?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-90%25-7B68EE?style=for-the-badge)
+</div>
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 # 📊 GitHub Stats:

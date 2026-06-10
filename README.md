@@ -1,16 +1,8 @@
 <img width="2172" height="724" alt="ChatGPT Image May 23, 2026, 11_54_40 PM" src="https://github.com/user-attachments/assets/e217c501-8124-4b57-848c-518c68f345d6" /><br><br>
 
 <div>
- 
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1500&color=00F5FF&center=true&vCenter=true&width=1000&lines=Hi.+I'm+Mahammad+Aftab+%F0%9F%91%8B;Computer+Science+Engineer;AI+%26+Generative+AI+Developer;Python+%26+Java+Full+Stack+Developer;MERN+Stack+Developer;Google+Cloud+Arcade+Facilitator;Building+Scalable+Web+Applications" alt="Typing SVG" />
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&pause=1500&color=00F5FF&center=true&vCenter=true&width=1200&height=80&lines=Hi.+I'm+Mahammad+Aftab+%F0%9F%91%8B;Computer+Science+Engineer;AI+%26+Generative+AI+Developer;Python+%26+Java+Full+Stack+Developer;MERN+Stack+Developer;Google+Cloud+Arcade+Facilitator;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=45&pause=1500&color=00F5FF&center=true&vCenter=true&width=1400&height=100&lines=Hi.+I'm+Mahammad+Aftab+%F0%9F%91%8B;Computer+Science+Engineer;AI+%26+Generative+AI+Developer;Python+%26+Java+Full+Stack+Developer;MERN+Stack+Developer;Google+Cloud+Arcade+Facilitator;Building+Scalable+Web+Applications" alt="Typing SVG" />
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />

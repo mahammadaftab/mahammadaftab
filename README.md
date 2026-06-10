@@ -7,7 +7,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile views" />
 <a href="https://github.com/mahammadaftab?tab=followers">
-  <img src="https://img.shields.io/github/followers/mahammadaftab?label=Followers&style=for-the-badge&color=8A2BE2" alt="followers" />
+  <img src="https://img.shields.io/github/followers/mahammadaftab?style=for-the-badge&cacheSeconds=60">
 </a>
 <a href="https://github.com/mahammadaftab?tab=repositories">
   <img src="https://img.shields.io/github/stars/mahammadaftab?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00F5FF" alt="stars" />

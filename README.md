@@ -2,8 +2,9 @@
 
 <div>
  
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=Building+premium+AI-powered+web+experiences;Designing+scalable+full-stack+systems;Shipping+modern+products+with+clean+architecture;Exploring+LLMs,+MLOps,+Cloud,+and+Web3" alt="Typing SVG" />
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1500&color=00F5FF&center=true&vCenter=true&width=1000&lines=Hi.+I'm+Mahammad+Aftab+%F0%9F%91%8B;Computer+Science+Engineer;AI+%26+Generative+AI+Developer;Python+%26+Java+Full+Stack+Developer;MERN+Stack+Developer;Google+Cloud+Arcade+Facilitator;Building+Scalable+Web+Applications" alt="Typing SVG" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=Profile%20Views&color=00F5FF&style=for-the-badge" alt="Profile Views" />

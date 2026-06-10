@@ -52,27 +52,27 @@
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+<a href="mailto:mdaftabeditz360@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://your-portfolio.vercel.app" target="_blank">
+<a href="https://mahammadaftab.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+<a href="https://discord.com/users/mahammadaftab" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="https://x.com/YOUR_USERNAME" target="_blank">
+<a href="https://x.com/mahammadaftab01" target="_blank">
   <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://www.instagram.com/mahammad_aftab_attari/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+<a href="https://www.youtube.com/@mahammad_aftab_attari" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 

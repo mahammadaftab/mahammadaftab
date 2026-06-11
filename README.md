@@ -538,7 +538,166 @@ Kubernetes App Developer
 
 <br/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+way+to+predict+the+future+is+to+implement+it.&author=David+Heinemeier+Hansson)]
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+way+to+predict+the+future+is+to+implement+it.&author=David+Heinemeier+Hansson)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<br/>
 
+> *"Any sufficiently advanced technology is indistinguishable from magic."*
+> — **Arthur C. Clarke**
 
+> *"The question is not whether machines can think, but whether humans do."*
+> — **B.F. Skinner**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  SUPPORT / CONTACT                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< SUPPORT & CONNECT />` ◈
+
+<br/>
+
+**💖 If my work has helped you, consider supporting:**
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mahammadaftab)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mahammadaftab)
+[![GitHub Sponsor](https://img.shields.io/badge/GitHub_Sponsor-EA4AAA?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/mahammadaftab)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mahammadaftab)
+
+<br/>
+
+**📬 Reach Me Directly:**
+
+[![Email](https://img.shields.io/badge/📧_mahammadaftab@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahammadaftab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahammadaftab)
+[![Calendly](https://img.shields.io/badge/📅_Schedule_a_Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/mahammadaftab)
+
+<br/>
+
+```
+╔════════════════════════════════════════════════════════╗
+║   Open to: Freelance · Consulting · Full-time Roles   ║
+║   Available for: AI Projects · Collaborations         ║  
+║   Response time: < 24 hours                           ║
+╚════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              GITHUB PROFILE SUMMARY CARDS                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< DETAILED STATS />` ◈
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahammadaftab&theme=radical"/>
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahammadaftab&theme=radical"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahammadaftab&theme=radical"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahammadaftab&theme=radical"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               SNAKE CONTRIBUTION ANIMATION                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< CONTRIBUTION SNAKE />` ◈
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               TOTAL CONTRIBUTION CLOCK / METRICS              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< CODING METRICS />` ◈
+
+<br/>
+
+<!--START_SECTION:waka-->
+```text
+Python           ████████████████░░░░░   65.3%
+JavaScript       ███████░░░░░░░░░░░░░░   27.8%
+TypeScript       ██░░░░░░░░░░░░░░░░░░░    9.2%
+Solidity         █░░░░░░░░░░░░░░░░░░░░    4.1%
+YAML / Docker    █░░░░░░░░░░░░░░░░░░░░    3.6%
+```
+<!--END_SECTION:waka-->
+
+<br/>
+
+[![wakatime](https://wakatime.com/badge/user/mahammadaftab.svg?style=for-the-badge)](https://wakatime.com/@mahammadaftab)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  FINAL CLOSING BANNER                         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< LET'S BUILD THE FUTURE TOGETHER />` ◈
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=500&color=BF00FF&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Follow+for+more+AI+%26+Tech+content+%F0%9F%A4%96;Let's+connect+and+build+something+amazing!)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=00f5ff"/>
+
+</div>
+
+<!-- ████████████████████████████████████████████████████████████████████████████████ -->
+<!-- ██                   SETUP INSTRUCTIONS FOR SNAKE ANIMATION                  ██ -->
+<!-- ██                                                                            ██ -->
+<!-- ██  Create .github/workflows/snake.yml with:                                 ██ -->
+<!-- ██                                                                            ██ -->
+<!-- ██  name: Generate Snake                                                      ██ -->
+<!-- ██  on:                                                                       ██ -->
+<!-- ██    schedule: [cron: "0 */12 * * *"]                                       ██ -->
+<!-- ██    workflow_dispatch:                                                      ██ -->
+<!-- ██  jobs:                                                                     ██ -->
+<!-- ██    generate:                                                               ██ -->
+<!-- ██      runs-on: ubuntu-latest                                                ██ -->
+<!-- ██      steps:                                                                ██ -->
+<!-- ██        - uses: Platane/snk@v3                                             ██ -->
+<!-- ██          with:                                                             ██ -->
+<!-- ██            github_user_name: mahammadaftab                                ██ -->
+<!-- ██            outputs: |                                                      ██ -->
+<!-- ██              dist/github-contribution-grid-snake.svg                      ██ -->
+<!-- ██              dist/github-contribution-grid-snake-dark.svg?palette=...     ██ -->
+<!-- ██        - uses: crazy-max/ghaction-github-pages@v3                         ██ -->
+<!-- ██          with: { target_branch: output, build_dir: dist }                 ██ -->
+<!-- ████████████████████████████████████████████████████████████████████████████████ -->

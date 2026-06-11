@@ -184,8 +184,6 @@
 
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00f5ff&icon_color=bf00ff&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadaftab&theme=radical&hide_border=true&background=0D1117&ring=bf00ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
 
 <br/>

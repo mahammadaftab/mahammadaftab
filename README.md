@@ -197,15 +197,6 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahammadaftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><hr>
-
-![](https://nirzak-streak-stats.vercel.app/?user=mahammadaftab&theme=dark&hide_border=false)<br/><hr>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadaftab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<hr>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahammadaftab&label=Profile%20views&color=0e75b6&style=flat" alt="mahammadaftab" /> </p><hr>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab" alt="mahammadaftab" /></a> </p><hr>
 
 <!-- GitHub readme activity graph start -->
 ## 📈 Contribution Graph

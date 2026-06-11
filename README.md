@@ -239,6 +239,7 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
 <!--              🐍 CONTRIBUTION SNAKE 🐍                    -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 ## ◈ `< 🐍 CONTRIBUTION SNAKE 🐍 />` ◈
 <p align="center">
   <picture>
@@ -247,6 +248,7 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
     <img alt="github-snake" src="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-snake.svg" />
   </picture>
 </p>
+</div>
 
 <hr> 
 

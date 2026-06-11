@@ -176,6 +176,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB ANALYTICS                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## ◈ `< GITHUB ANALYTICS />` ◈
@@ -195,6 +199,9 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--             GITHUB TROPHIES & ACHIEVEMENTS                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -210,22 +217,21 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
 
 </div>
 
-
-
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              CONTRIBUTION GRAPH / ACTIVITY                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
-<!-- GitHub readme activity graph start -->
-## 📈 Contribution Graph
 <div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://montasim-github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+
+## ◈ `< CONTRIBUTION GRAPH />` ◈
+
+<br/>
+
+[![Mahammad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahammadaftab&bg_color=0D1117&color=00f5ff&line=bf00ff&point=00f5ff&area=true&hide_border=true&area_color=1a0038)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
-<!-- GitHub readme activity graph end -->
 
 ## 🐍 Contribution Snake
 <p align="center">

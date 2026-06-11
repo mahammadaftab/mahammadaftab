@@ -623,7 +623,10 @@ YAML / Docker    █░░░░░░░░░░░░░░░░░░░░
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=00f5ff"/>
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00FFFF&height=120&section=footer" width="100%" alt="Footer Wave" />
+</div>
 
 </div>
 

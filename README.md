@@ -194,23 +194,22 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
 </div>
 
 
+
 <div align="center">
 
-# ◈ < GITHUB TROPHIES /> ◈
+# 🏆 GITHUB TROPHIES & ACHIEVEMENTS
 
-<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+<!-- GitHub Trophies -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+
+<br><br>
+
+<!-- GitHub Achievement Graph -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahammadaftab&theme=tokyonight" />
 
 </div>
 
 
-
-<div align="center">
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
 
 
 

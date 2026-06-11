@@ -253,7 +253,369 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-[![trophy](https://github-trophies.vercel.app/?username=mahammadaftab)](https://github.com/mahammadaftab/github-trophies)
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--               FEATURED PROJECTS SECTION                       -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< FEATURED PROJECTS />` ◈
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [NexusAI — Autonomous Agent Platform](https://github.com/mahammadaftab/nexusai)
+
+> **Production-grade multi-agent orchestration system powered by LLMs**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+```
+✦ Multi-agent task orchestration with RAG
+✦ Real-time streaming responses via WebSocket
+✦ Vector DB integration (Pinecone + Weaviate)
+✦ Custom tool-calling & memory management
+✦ 10,000+ daily active users
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [ChainMesh — DeFi Analytics Platform](https://github.com/mahammadaftab/chainmesh)
+
+> **Real-time blockchain analytics & DeFi protocol dashboard**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+```
+✦ On-chain data indexing & real-time analytics
+✦ Smart contract interaction UI
+✦ DeFi portfolio tracker with P&L
+✦ NFT floor price monitoring
+✦ $2M+ in tracked wallet value
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [VisionForge — Computer Vision SaaS](https://github.com/mahammadaftab/visionforge)
+
+> **AI-powered image analysis and generation platform**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+```
+✦ Object detection, segmentation & OCR
+✦ Stable Diffusion fine-tuned model serving
+✦ Real-time video analysis pipeline
+✦ REST API with 99.9% uptime SLA
+✦ Processing 500K+ images per day
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [StackForge — Full Stack MERN Boilerplate](https://github.com/mahammadaftab/stackforge)
+
+> **Enterprise-ready MERN stack template with auth, payments & CI/CD**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+
+```
+✦ JWT + OAuth2 auth (Google/GitHub)
+✦ Stripe payment integration
+✦ Role-based access control (RBAC)
+✦ Automated Docker + GitHub Actions CI/CD
+✦ 3,500+ GitHub stars ⭐
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/🚀_VIEW_ALL_PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0D1117)](https://github.com/mahammadaftab?tab=repositories)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              ACHIEVEMENTS & CERTIFICATIONS                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< ACHIEVEMENTS & CERTIFICATIONS />` ◈
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**AWS Certified**
+Solutions Architect
+
+</td>
+<td align="center" width="25%">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Developer_Certified-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**TensorFlow**
+Developer Certificate
+
+</td>
+<td align="center" width="25%">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-Associate_Developer-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**MongoDB**
+Associate Developer
+
+</td>
+<td align="center" width="25%">
+
+![Kubernetes](https://img.shields.io/badge/CKAD-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**CKAD**
+Kubernetes App Developer
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+|  🏆 Achievement  |  📅 Year  |  🎯 Impact  |
+|:---|:---:|:---:|
+| 🥇 Top AI Engineer — Hackathon India 2024 | 2024 | 500+ participants |
+| 🚀 Open Source Contributor — LangChain | 2024 | 50+ merged PRs |
+| 🌟 GitHub Arctic Code Vault Contributor | 2023 | Permanent archive |
+| 📚 Technical Author — 50K+ readers | 2023 | Dev.to Top Writer |
+| 🎤 Speaker — PyData India Conference | 2024 | 2,000+ attendees |
+| 💡 Patent Filed — AI-Powered Code Review | 2024 | Under review |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              AI / ML DEEP DIVE SECTION                        -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< AI / ML EXPERTISE />` ◈
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                       ◈  GENERATIVE AI STACK  ◈                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   LLM FRAMEWORKS    │ LangChain · LlamaIndex · Haystack · CrewAI             ║
+║   FOUNDATION MODELS │ GPT-4 · Claude · Gemini · Llama 3 · Mistral            ║
+║   VECTOR DATABASES  │ Pinecone · Weaviate · Chroma · Qdrant · FAISS          ║
+║   EMBEDDING MODELS  │ OpenAI Ada · Cohere · Sentence Transformers            ║
+║   FINE-TUNING       │ LoRA · QLoRA · PEFT · Unsloth · Axolotl                ║
+║   MLOPS TOOLS       │ MLflow · Weights & Biases · DVC · BentoML              ║
+║   SERVING           │ vLLM · Triton · TorchServe · Ollama · LiteLLM          ║
+║   OBSERVABILITY     │ LangSmith · Phoenix · Prometheus · Grafana             ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                       ◈  ML SPECIALIZATIONS  ◈                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   ✦ RAG Architecture Design & Optimization                                  ║
+║   ✦ Multi-Agent System Engineering (ReAct, Plan-and-Execute)                ║
+║   ✦ Prompt Engineering & Optimization (Chain-of-Thought, Few-shot)          ║
+║   ✦ Computer Vision (Detection, Segmentation, Generation)                   ║
+║   ✦ NLP (Sentiment, NER, Summarization, Translation)                        ║
+║   ✦ Model Compression (Quantization, Pruning, Distillation)                 ║
+║   ✦ Evaluation Frameworks (RAGAS, TruLens, ROUGE, BLEU)                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              CLOUD / BLOCKCHAIN DEEP DIVE                     -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< CLOUD & BLOCKCHAIN MASTERY />` ◈
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ AWS Cloud Architecture
+
+```yaml
+Compute:
+  - EC2 Auto-scaling Groups
+  - Lambda Serverless Functions
+  - ECS / EKS Container Orchestration
+  - Fargate Managed Containers
+
+Storage & DB:
+  - S3 + CloudFront CDN
+  - RDS (Multi-AZ, Read Replicas)
+  - DynamoDB (On-demand capacity)
+  - ElastiCache (Redis)
+
+AI/ML Services:
+  - SageMaker Studio & Pipelines
+  - Bedrock (Foundation Models)
+  - Rekognition & Comprehend
+  - Textract & Transcribe
+
+Networking & Security:
+  - VPC Design & Peering
+  - Route 53 DNS Management
+  - IAM Roles & Policies
+  - WAF + Shield DDoS Protection
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Blockchain Architecture
+
+```solidity
+// Smart Contract Expertise
+contract AftabProtocol {
+    // ERC-20 / ERC-721 / ERC-1155
+    // DeFi: AMM, Lending, Staking
+    // DAO Governance Mechanisms
+    // Multi-sig Wallets (Gnosis Safe)
+
+    // Security Patterns Used:
+    //  - ReentrancyGuard
+    //  - Ownable (OpenZeppelin)
+    //  - Pausable Contracts
+    //  - Proxy Upgradeable Patterns
+
+    // Layer 2 Solutions:
+    //  - Polygon, Arbitrum, Optimism
+    //  - zkEVM Deployments
+    //  - Cross-chain Bridges
+
+    // Tools: Hardhat, Foundry,
+    //        Slither, Mythril (Audit)
+}
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                  2024-2025 ROADMAP                            -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< 2025 ROADMAP />` ◈
+
+</div>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                     ◈  MAHAMMAD'S 2025 VISION  ◈
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Q1 2025  [██████████] 100%  ✅  Launch AI Agent SaaS Platform
+  Q2 2025  [████████░░]  80%  🔄  Open Source RAG Framework Release
+  Q3 2025  [█████░░░░░]  50%  🔄  Publish Research Paper on Multi-Agent AI
+  Q4 2025  [██░░░░░░░░]  20%  ⏳  AWS ML Specialty Certification
+  Q4 2025  [░░░░░░░░░░]   0%  ⏳  Build & Deploy AI-powered DeFi Protocol
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  🎯 MISSION : Make AI accessible, explainable, and production-ready
+  🌍 VISION  : Build open-source AI tools used by 1M+ developers
+  💡 VALUES  : Innovation · Collaboration · Excellence · Impact
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--              SPOTIFY / DISCORD / PORTFOLIO                    -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< LIVE STATUS />` ◈
+
+<table>
+<tr>
+<td align="center">
+
+### 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/🚀_mahammadaftab.dev-000000?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://mahammadaftab.dev)
+
+</td>
+<td align="center">
+
+### 💬 Discord Server
+[![Discord](https://img.shields.io/badge/Join_AI_Dev_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mahammadaftab)
+
+</td>
+<td align="center">
+
+### 📝 Newsletter
+[![Substack](https://img.shields.io/badge/Subscribe_to_AI_Weekly-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://mahammadaftab.substack.com)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                 RANDOM DEV QUOTE                              -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ `< DEV PHILOSOPHY />` ◈
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+way+to+predict+the+future+is+to+implement+it.&author=David+Heinemeier+Hansson)]
 
 
 

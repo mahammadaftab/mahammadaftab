@@ -515,42 +515,12 @@ Kubernetes App Developer
 [![Discord](https://img.shields.io/badge/Join_AI_Dev_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mahammadaftab)
 
 </td>
-<td align="center">
-
-### 📝 Newsletter
-[![Substack](https://img.shields.io/badge/Subscribe_to_AI_Weekly-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://mahammadaftab.substack.com)
-
-</td>
 </tr>
 </table>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                 RANDOM DEV QUOTE                              -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ◈ `< DEV PHILOSOPHY />` ◈
-
-<br/>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The+best+way+to+predict+the+future+is+to+implement+it.&author=David+Heinemeier+Hansson)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-> *"Any sufficiently advanced technology is indistinguishable from magic."*
-> — **Arthur C. Clarke**
-
-> *"The question is not whether machines can think, but whether humans do."*
-> — **B.F. Skinner**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                  SUPPORT / CONTACT                            -->
@@ -573,23 +543,23 @@ Kubernetes App Developer
 
 **📬 Reach Me Directly:**
 
-[![Email](https://img.shields.io/badge/📧_mahammadaftab@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahammadaftab@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahammadaftab)
+[![Email](https://img.shields.io/badge/📧_mdaftabeditz360@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdaftabeditz360@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahammad-aftab)
 [![Calendly](https://img.shields.io/badge/📅_Schedule_a_Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/mahammadaftab)
 
 <br/>
 
 ```
 ╔════════════════════════════════════════════════════════╗
-║   Open to: Freelance · Consulting · Full-time Roles   ║
-║   Available for: AI Projects · Collaborations         ║  
-║   Response time: < 24 hours                           ║
+║   Open to: Freelance · Consulting · Full-time Roles    ║
+║   Available for: AI Projects · Collaborations          ║  
+║   Response time: < 24 hours                            ║
 ╚════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--              GITHUB PROFILE SUMMARY CARDS                     -->
@@ -611,27 +581,7 @@ Kubernetes App Developer
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--               SNAKE CONTRIBUTION ANIMATION                    -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ◈ `< CONTRIBUTION SNAKE />` ◈
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahammadaftab/mahammadaftab/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--               TOTAL CONTRIBUTION CLOCK / METRICS              -->
@@ -659,15 +609,13 @@ YAML / Docker    █░░░░░░░░░░░░░░░░░░░░
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════════ -->
 <!--                  FINAL CLOSING BANNER                         -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-## ◈ `< LET'S BUILD THE FUTURE TOGETHER />` ◈
 
 <br/>
 

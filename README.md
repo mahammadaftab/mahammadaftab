@@ -194,6 +194,28 @@ src="https://github-readme-stats.vercel.app/api?username=mahammadaftab&show_icon
 </div>
 
 
+<div align="center">
+
+# ◈ < GITHUB TROPHIES /> ◈
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+
+</div>
+
+
+
+<div align="center">
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahammadaftab&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
